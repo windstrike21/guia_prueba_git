@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>curriculum vitae</title>
+</head>
+<body>
+    <div id="Nombre">
+        <img src="Foto.jpg" width="125">
+        <h2>Angel Elí Santa Cruz Villalobos</h2>
+        <p>Puente Piedra - Lima</p>
+        <br>
+    </div>
+
+    <fieldset>
+        <legend>Datos personales</legend>
+        <ul>
+            <li>DNI:72674348</li>
+            <li>Código: 20153325</li>
+            <li>Celular: 986529607</li>
+            <li>Nacionalidad: Peruano</li>
+            <li>Email: 20153325@aloe.ulima.edu.pe</li>
+
+        </ul>
+
+
+    </fieldset>
+    
+    <br>
+    <br>
+
+    <fieldset>
+        <legend>Estudios académicos</legend>
+        <ol>
+            <li>Primaria: Santísima Trinidad</li>
+            <li>Secundaria: Saco Oliveros</li>
+            <li>Inglés: ICPNA</li>
+            <li>Carrera: Ingeniería de Sistemas</li>
+            <li>Universidad: Universidad de Lima</li>            
+        </ol>
+
+    </fieldset>
+    
+    <br>
+    <br>
+
+    <fieldset>
+        <legend>Experiencia laboral</legend>
+        <ul>
+            <li>Work & Travel</li>
+            <li>Asistente de ventas</li>
+            <li>Asesor comercial en Call Center</li>
+            <li>Vendedor</li>
+
+        </ul>
+
+
+    </fieldset>
+    
+    <br>
+    <br>
+
+    <fieldset>
+        <legend>Intereses personales</legend>
+        <ul>
+            <li>Leer</li>
+            <li>Escuchar música</li>
+            <li>Jugar fútbol</li>
+            <li>Viajar</li>
+            <li>Bailar</li>
+
+        </ul>
+
+    </fieldset>
+    
+    
+</body>
+</html>
